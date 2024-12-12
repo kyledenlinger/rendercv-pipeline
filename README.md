@@ -26,53 +26,43 @@ Picture this:
 -  Edit and preview your CV in your browser without installing anything by creating a codespace. Click the <> **Code** button, then click the **Codespaces** tab, and then click **Create codespace on main**. The environment will be ready for RenderCV usage. Update `.vscode/launch.json` to point to your YAML file and press `F5` to run RenderCV in the browser.
 
 <!-- Remove above in src/markdown/Header.j2.md not in README.md -->
-# John Doe's CV
+# Kyle Denlinger's CV
 
-- Phone: +90 541 999 99 99
-- Email: [youremail@yourdomain.com](mailto:youremail@yourdomain.com)
-- Location: Your Location
-- Website: [yourwebsite.com](https://yourwebsite.com/)
-- LinkedIn: [yourusername](https://linkedin.com/in/yourusername)
-- GitHub: [yourusername](https://github.com/yourusername)
+- Phone: +1 513 255 2309
+- Email: [denlinkd@wfu.edu](mailto:denlinkd@wfu.edu)
+- Location: Winston-Salem, NC
+- Website: [kyledenlinger.github.io](https://kyledenlinger.github.io/)
+- LinkedIn: [kyledenlinger](https://linkedin.com/in/kyledenlinger)
+- GitHub: [kyledenlinger](https://github.com/kyledenlinger)
 
 
-# Welcome to RenderCV!
-
-[RenderCV](https://github.com/sinaatalay/rendercv) is a LaTeX-based CV/resume framework. It allows you to create a high-quality CV or resume as a PDF file from a YAML file, with **full Markdown syntax support** and **complete control over the LaTeX code**.
-
-The boilerplate content was inspired by [Gayle McDowell](https://github.com/dnl-blkv/mcdowell-cv).
-
-# Quick Guide
-
-- Each section title is arbitrary and each section contains a list of entries.
-- There are 7 unique entry types: *BulletEntry*, *TextEntry*, *EducationEntry*, *ExperienceEntry*, *NormalEntry*, *PublicationEntry*, and *OneLineEntry*.
-- Select a section title, pick an entry type, and start writing your section!
-- [Here](https://docs.rendercv.com/user_guide/), you can find a comprehensive user guide for RenderCV.
 # Education
 
-## University of Pennsylvania, BS in Computer Science
+## University of Missouri, MA in Information Science & Learning Technologies
 
-- Sept 2000 – May 2005
-- GPA: 3.9/4.0 ([Transcript](https://example.com))
-- **Coursework:** Computer Architecture, Comparison of Learning Algorithms, Computational Theory
+- 2012
+
+## University of Cincinnati, BS in Secondary Education, English Language Arts
+
+- 2008
 
 # Experience
 
-## Apple, Software Engineer
+## Wake Forest University, Digital Pedagogy & Open Education Librarian
 
-- June 2005 – Aug 2007
-- Cupertino, CA
+- Jan 2020 to present
+- Winston-Salem, NC
 - Reduced time to render user buddy lists by 75% by implementing a prediction algorithm
 - Integrated iChat with Spotlight Search by creating a tool to extract metadata from saved chat transcripts and provide metadata to a system-wide search database
 - Redesigned chat file format and implemented backward compatibility for search
 
-## Microsoft, Software Engineer Intern
+## Wake Forest University, eLearning Librarian
 
-- June 2003 – Aug 2003
-- Redmond, WA
+- Jul 2012 to Dec 2019
+- Winston-Salem, NC
 - Designed a UI for the VS open file switcher (Ctrl-Tab) and extended it to tool windows
 - Created a service to provide gradient across VS and VS add-ins, optimizing its performance via caching
-- Built an app to compute the similarity of all methods in a codebase, reducing the time from $\mathcal{O}(n^2)$ to $\mathcal{O}(n \log n)$
+- Built an app to compute the similarity of all methods in a codebase, reducing the time from $$\mathcal{O}(n^2)$$ to $$\mathcal{O}(n \log n)$$
 - Created a test case generation tool that creates random XML docs from XML Schema
 - Automated the extraction and processing of large datasets from legacy systems using SQL and Perl scripts
 
