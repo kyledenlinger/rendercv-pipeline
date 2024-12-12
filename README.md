@@ -44,7 +44,7 @@ Picture this:
 
 ## University of Cincinnati, BS in Secondary Education, English Language Arts
 
-- 2008
+- 2007
 
 # Experience
 
